@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-flowchart TD
-    A[Christmas] -->|Get money| B(Go shopping)
-    B --> C{Let me think}
-    C -->|One| D[Laptop]
-    C -->|Two| E[iPhone]
-    C -->|Three| F[fa:fa-car Car]
+```{python}
+print("test")
+```
 
 <!--
 **Jonah-Turner/Jonah-Turner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
