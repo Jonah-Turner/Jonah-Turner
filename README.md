@@ -1,10 +1,16 @@
 ![](github_banner.jpg)
 
-<a href="https://linkedin.com/in/jonah-turner" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/linkedin/linkedin-original.svg" alt="jonah-turner" height="30" width="40" /></a>
+<h1 align="center"> Welcome to my GitHub page! 👋 </h1>
 
----
+<a href="https://github.com/jonah-turner?tab=followers"><img src="https://img.shields.io/github/followers/jonah-turner?label=Followers&style=social" alt="GitHub followers"></a>
 
-### :hammer_and_wrench: Languages and Tools :
+
+<h2> 📫 How to reach me: </h2>
+
+<a href="mailto:YourEmail@gmail.com"> ![jonahturner177@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
+<a href="https://linkedin.com/in/jonah-turner"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+
+<h2> :hammer_and_wrench: Languages and Tools : </h2>
 
 <div>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
