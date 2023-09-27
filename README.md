@@ -1,14 +1,30 @@
 ![](github_banner.jpg)
 
-<h1 align="center"> Welcome to my GitHub page! 👋 </h1>
+<h1> Welcome to my GitHub page! 👋 </h1>
 
 <a href="https://github.com/jonah-turner?tab=followers"><img src="https://img.shields.io/github/followers/jonah-turner?label=Followers&style=social" alt="GitHub followers"></a>
 
+![Overall Stats](https://github-readme-stats-jonah-turner.vercel.app/api?username=jonah-turner&count_private=true&show_icons=true&hide=stars&theme=github_dark)
+
+<br>
+
+<h2> 👩‍💻 About Me : </h1>
+
+<p> 
+  My name is Jonah Turner. I studied <b>Computer Science</b> at <a href="https://www.byui.edu/" target="_blank"><i>Brigham Young University - Idaho</i></a> where I worked with countless 
+  talented professors and students alike. I did two internships for <a href="https://www.engie-na.com/" target="_blank"><i>Engie North America</i></a> where I worked as an analyst in the 
+  energy sector. I specifically spent much of my time aggregating, wrangling, and presenting key information that could help more senior analysts. I am most familiar with the ERCOT market, 
+  but I have experience with ISO-NE as well as CAISO.
+</p>
+
+<br>
 
 <h2> 📫 How to reach me: </h2>
 
 <a href="mailto:YourEmail@gmail.com"> ![jonahturner177@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) </a>
 <a href="https://linkedin.com/in/jonah-turner"> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+
+<br>
 
 <h2> :hammer_and_wrench: Languages and Tools : </h2>
 
