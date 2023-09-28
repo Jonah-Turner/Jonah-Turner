@@ -16,7 +16,7 @@
   energy sector. I specifically spent much of my time aggregating, wrangling, and presenting key information that could help more senior analysts. I am most familiar with the ERCOT market, 
   but I have experience with ISO-NE as well as CAISO.
 
-  For more details please refer to my <a href="https://jonah-turner.github.io/" target="_blank"> resume </a>
+  For more details please refer to my <a href="https://jonah-turner.github.io/" target="_blank"> <b>resume</b> </a>
 </p>
 
 <br>
