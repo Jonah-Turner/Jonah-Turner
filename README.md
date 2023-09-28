@@ -15,6 +15,8 @@
   talented professors and students alike. I did two internships for <a href="https://www.engie-na.com/" target="_blank"><i>Engie North America</i></a> where I worked as an analyst in the 
   energy sector. I specifically spent much of my time aggregating, wrangling, and presenting key information that could help more senior analysts. I am most familiar with the ERCOT market, 
   but I have experience with ISO-NE as well as CAISO.
+
+  For more details please refer to my <a href="https://jonah-turner.github.io/" target="_blank"> resume </a>
 </p>
 
 <br>
